@@ -18,6 +18,6 @@ int main()
     cout << a << "    " << b << endl;
     b = 30;
     cout << a << "    " << b << endl;
-
+    cout << &var2 << endl;
     return 0;
 }
